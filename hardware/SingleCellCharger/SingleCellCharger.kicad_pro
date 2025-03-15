@@ -427,7 +427,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "MAX77751CEFG_ (1)"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
