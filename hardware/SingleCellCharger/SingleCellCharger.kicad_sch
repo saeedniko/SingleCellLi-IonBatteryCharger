@@ -4382,7 +4382,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Battery:Battery_Panasonic_CR1220-VCN_Vertical_CircularHoles"
 			(at 187.96 57.404 90)
 			(effects
 				(font
@@ -5477,7 +5477,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib-footprint:CONN RCP USB3.1 TYPEC 24P SMD RA 632723100011"
+		(property "Footprint" "632723100011:632723100011"
 			(at 68.072 133.35 0)
 			(effects
 				(font
